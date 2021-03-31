@@ -39,20 +39,20 @@ Step 6: save the results/保存视差重建的结果
 相关算法描述，待补充（毕业后补充）。
 
 ### 1.Nor
-角度域相似程度加权（自动去遮挡、噪声，效果最好）
+相似程度加权算法（自动去遮挡、噪声，效果最好）
 
 ### 2.Var
-角度域区域加权方差
+区域加权方差算法
 
 ### 3.Hist
-角度域灰度直方图峰值
+灰度直方图峰值算法
 
 ### 4.NorF
-角度域傅里叶变化归一化基频
+频域归一化基频算法
 
 ### 5.CAE
-角度域角度熵，参考文献[3]
-
+角度熵
+Williem, I. K. Park and K. M. Lee, "Robust Light Field Depth Estimation Using Occlusion-Noise Aware Data Costs," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 40, no. 10, pp. 2484-2497, 1 Oct. 2018, doi: 10.1109/TPAMI.2017.2746858.
 ### 6.EPI-SP
 搜索点二分算法
 
