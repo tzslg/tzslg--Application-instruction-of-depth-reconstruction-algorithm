@@ -51,7 +51,6 @@ Step 6: save the results/保存视差重建的结果
 频域归一化基频算法
 
 ### 5.CAE
-角度熵
 Williem, I. K. Park and K. M. Lee, "Robust Light Field Depth Estimation Using Occlusion-Noise Aware Data Costs," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 40, no. 10, pp. 2484-2497, 1 Oct. 2018, doi: 10.1109/TPAMI.2017.2746858.
 ### 6.EPI-SP
 搜索点二分算法
